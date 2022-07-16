@@ -1,0 +1,78 @@
+{
+  "basics": {
+    "name": "Daniel D. Aviador",
+    "label": "Computer Engineer",
+    "email": "danielaviador24@gmail.com",
+    "phone": "09194978579",
+    "summary": "I am currently studying at Polytechnic University of the Philippines, I am one of the student of BSCpE 1-4, I am flexible, reliable and possess excellent time keeping skills. I am an enthusiastic, self-motivated, reliable, responsible and hard working person. I am a mature team worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as using own initiative.",
+    "location": {
+      "address": "164 Kapiligan, Street, Subdivision/Village, Brgy. Doña Imelda",
+      "postalCode": "1113",
+      "city": "Quezon City",
+      "countryCode": "Philippines",
+      "region": "National Capital Region"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Nieltrbl",
+        "url": "https://github.com/Nieltrbl"
+      }
+    ]
+  },
+
+  "education": [
+    {
+      "institution": "Polytechnic University of the Philippines",
+      "url": "https://www.pup.edu.ph/",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor of Science in",
+      "startDate": "2021-10-11",
+      "endDate": "2025-08-30",
+      "score": "1.69 GWA" 
+    },
+    {
+      "institution": "Polytechnic University of the Philippines Senior High School",
+      "url": "https://www.pup.edu.ph/shs/",
+      "area": "STEM Strand",
+      "studyType": "Academic Track",
+      "startDate": "2019-06-10",
+      "endDate": "2021-09-08"
+    },
+    {
+      "institution": "Carlos L. Albert High School",
+      "studyType": "Grade 7 to Grade 10",
+      "startDate": "2015-06-21",
+      "endDate": "2019-07-30"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Basketball",
+      "level": "Amateur",
+      "keywords": [
+        "Player of basketball since 2012"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Filipino",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "references": [
+    {
+        "reference": "Daniel is an excellent computer engineer to work with. His skills have been helpful in resolving problems I encountered on my job.",
+        "name": "Glen Mabbayad"
+    },
+    {
+        "reference": "Computer-game developer Daniel Aviador introduced pioneering innovations in the 3-D game arena.",
+        "name": "Angelo Miguel Ysulat"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\D'Aviador\source\repos\PDFResumeCreator\PDFResumeCreator\bin\Debug\PDFResumeCreator.exe.config
+C:\Users\D'Aviador\source\repos\PDFResumeCreator\PDFResumeCreator\bin\Debug\PDFResumeCreator.exe
+C:\Users\D'Aviador\source\repos\PDFResumeCreator\PDFResumeCreator\bin\Debug\PDFResumeCreator.pdb
+C:\Users\D'Aviador\source\repos\PDFResumeCreator\PDFResumeCreator\obj\Debug\PDFResumeCreator.csproj.AssemblyReference.cache
+C:\Users\D'Aviador\source\repos\PDFResumeCreator\PDFResumeCreator\obj\Debug\PDFResumeCreator.csproj.SuggestedBindingRedirects.cache
+C:\Users\D'Aviador\source\repos\PDFResumeCreator\PDFResumeCreator\obj\Debug\PDFResumeCreator.PDFResumeCreator.resources
+C:\Users\D'Aviador\source\repos\PDFResumeCreator\PDFResumeCreator\obj\Debug\PDFResumeCreator.Properties.Resources.resources
+C:\Users\D'Aviador\source\repos\PDFResumeCreator\PDFResumeCreator\obj\Debug\PDFResumeCreator.csproj.GenerateResource.cache
+C:\Users\D'Aviador\source\repos\PDFResumeCreator\PDFResumeCreator\obj\Debug\PDFResumeCreator.csproj.CoreCompileInputs.cache
+C:\Users\D'Aviador\source\repos\PDFResumeCreator\PDFResumeCreator\obj\Debug\PDFResumeCreator.exe
+C:\Users\D'Aviador\source\repos\PDFResumeCreator\PDFResumeCreator\obj\Debug\PDFResumeCreator.pdb
+C:\Users\D'Aviador\source\repos\PDFResumeCreator\PDFResumeCreator\obj\Debug\PDFResumeCreator.msgboxSuccess.resources
